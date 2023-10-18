@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">imagen_mysql</string>
+    <string name= "btncamara">Camara</string>
+</resources>
